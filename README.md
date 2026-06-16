@@ -2,7 +2,7 @@
 
 A curated collection of HTML templates and visual design references for slide layouts, presentation graphics, landing pages, and AI-assisted slide designs.
 
-A beautiful library of reusable HTML slide templates designed so that any coding agent can pick the right one and produce a designed deck on the user's behalf, automatically.
+Reusable HTML slide templates designed so that any coding agent can pick the right one and produce a designed deck on the user's behalf, automatically.
 
 Agents using the library should read [`AGENTS.md`](./AGENTS.md). It's the operating manual: how to read `index.json`, match the user's brief to a template, clone it, and adapt the content.
 
